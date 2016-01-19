@@ -1,0 +1,19 @@
+.container{
+    border: 5px solid black;
+    }
+.uno{
+    height: 100px;
+    width: 25%;
+    background: yellow;
+}
+.dos{
+    height: 100px;
+    width: 25%;
+    background: blue;
+}
+.tres{
+    height: 100px;
+    width: 25%;
+    background: red;
+}
+
